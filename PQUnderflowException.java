@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class UnderflowException here.
+ * PQUnderflowException 
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Carissa Lau
+ * @version 
  */
 public class PQUnderflowException extends RuntimeException
 {
