@@ -1,9 +1,9 @@
 
 /**
- * PQUnderflowException 
+ * PQUnderflowException for when priority queue is empty
  *
  * @author Carissa Lau
- * @version 
+ * @version 6/22/24
  */
 public class PQUnderflowException extends RuntimeException
 {
